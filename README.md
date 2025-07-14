@@ -688,4 +688,4 @@ sp-entity-connect/
 
 ---
 
-**Made with ❤️ by [Ashwani Singh](https://github.com/ashwanisingh) at SeKraft**
+**Made with ❤️ by [Ashwani Singh](https://github.com/ashwani-singh-dev) at SeKraft**
